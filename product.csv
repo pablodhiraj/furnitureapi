@@ -1,0 +1,20 @@
+id,name,Location,category,discount,price,description,user_id,store_name
+1,Zara Tshirt,1685944228tshirt.jpg,Clothing,400,500,"Gray Tshirt is a oversized tshirt with cotton fabric , V neckline , short sleeve and have printed graphics.",1,SHOPPE
+2,Pink Jacket,1686063955pink jacket.jpg,Clothing,900,1000,Pink windchiter is a water resistance having nylon Fabric.,1,SHOPPE
+3,Red Jacket,1686289292redjacket.jpg,Clothing,800,900,"Red windchiter is a wind resistnace having poyster fabric ",2,Hilltop
+4,Nike Tshirt,1686289464bluetshirt.jpg,Clothing,400,500,"Blue Tshirt is a slim fit with cotton fabric, round neckline, short sleeve and have printed logo",2,SHOPPE
+5,Tshirt,1686289588lightbluetshirt.jpg,Clothing,20000,22000,"LightBlue Tshirt is a oversized with cotton fabric, round neckline, short sleeve and have printed prints",2,SHOPPE
+6,Samsung M33,1686290309353026888_6462093350519968_625101386167337975_n.jpg,Mobile,18000,20000,"Samsung Phone having storage 128 gb, battery of LiPo 5000 mAh, model m33 with camera of 8 px having os android.",3,Precious
+7,Samsung M31,1686290984345444639_232329876176935_5391371312302098325_n.jpg,Mobile,23000,24000,"Samsung Phone having storage 64 gb, battery of LiPo 4000 mAh, model m31 with camera of 8 px having os android. ",4,Precious
+8,One Plus,1686290855350771950_575032444819416_162473507376940563_n.jpg,Mobile,10000,10500,"OnePlus Phone having storage 128 gb, battery of LiPo 5000 mAh, model 12 Pro with camera of 8 px having os android.",5,Mountain
+9,Iphone 13,1686291185351732898_995913815103016_5582525234912445007_n.jpg,Mobile,90000,90500,"Apple Phone having storage 512 gb, battery of LiPo 5000 mAh, model 13 pro max with camera of 12 px having os android.",5,Mountain
+10,Mouse,1682941405mouse.jpg,Electronics,1000,1100,Wired Mouse which is electronic device with 2400 hz frequency having no multi lights,3,Glam
+11,Black Keyboard,1685013878keybd.png,Electronics,1500,1600,Slim Keyboard with high quality anf applicable to all os.,4,Glam
+12,Keyboard,1682944585keyboard.png,Electronics,1300,1400,Thick Keyboard with high quality anf applicable to all os.,6,Variety
+13,Laptop,asuz.jpg,Laptop,85000,86000,"ASUS Laptop with storage 256 gb, wifi connectivity, intel integrated graphic card ,touchpad, keyboard and having cpu core as dual core.",6,Variety
+14,MacBook,macbook.jpg,Laptop,120000,120000,"MacBook Laptop with storage 256 gb, wifi connectivity, nvidia graphic card ,touchpad, touchscreen, keyboard and having cpu core as dual core.",4,Hilltop
+15,PC Computer,1682942512computer.jpg,Electronics,50000,51000,"Electronics Desktop  with storage 120 gb, wired connectivity, intel integrated graphic card and having cpu core as dual core,wired mouse and keyboard",7,Glam
+16,Plain-Tshirt,plain.jpg,Clothing,800,1000,"Plain Tshirt is a oversized tshirt having nylon fabric , turtleneck , full sleeve and have printed logos.",8,Thread
+17,Asuzus Tshirt,asus.jpg,Clothing,600,1200,"Tshirt which is  slim fit with cotton fabric , round neckline , short sleeveless and have printed numbers.",9,Thread
+18,KTM CTY Tshirt,ktm.jpg,Clothing,900,950,"Gray Tshirt is a oversized tshirt with cotton fabric , round neckline , full sleeve and have printed logos.",8,Thread
+19,Polo shirt,polo.jpg,Clothing,750,900,"Tshirt is a oversized with cotton fabric , V neckline , short sleeve  with buttons and is polo tshirt.",10,Thread
